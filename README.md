@@ -17,6 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 <kbd>
   <img src="https://res.cloudinary.com/img-cloud-alex/image/upload/v1693185090/apps/qgbitrlqyezsgp87hfpi.png" width="150"/>
-  <div width="5"></div>
   <img src="https://res.cloudinary.com/img-cloud-alex/image/upload/v1693185090/apps/hy6jtl8yljwr9ia26xej.png" width="150"/>
 </kbd>
